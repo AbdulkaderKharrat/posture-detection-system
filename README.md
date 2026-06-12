@@ -114,3 +114,39 @@ Abdulkader Kharrat
 
 AI \& Computer Vision Developer
 
+
+
+
+
+
+
+
+
+
+
+\## Screenshots
+
+
+
+\### Good Posture Detection
+
+
+
+!\[Good Posture](screenshots/Good posture.png)
+
+
+
+\### Bad Posture Detection
+
+
+
+!\[Bad Posture](screenshots/Bad posture.png)
+
+
+
+\### Json log
+
+
+
+!\[Json log](screenshots/Json log.png)
+
