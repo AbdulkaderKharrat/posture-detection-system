@@ -132,7 +132,7 @@ AI \& Computer Vision Developer
 
 
 
-!\[Good Posture](screenshots/Good posture.png)
+!\[Good Posture](./screenshots/good\_posture.png)
 
 
 
@@ -140,13 +140,13 @@ AI \& Computer Vision Developer
 
 
 
-!\[Bad Posture](screenshots/Bad posture.png)
+!\[Bad Posture](./screenshots/bad\_posture.png)
 
 
 
-\### Json log
+\### JSON Log Example
 
 
 
-!\[Json log](screenshots/Json log.png)
+!\[Json Log](./screenshots/json\_log.png)
 
