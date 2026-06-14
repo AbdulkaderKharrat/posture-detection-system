@@ -130,7 +130,7 @@ AI \& Computer Vision Developer
 
 
 
-!\[Good Posture](https://raw.githubusercontent.com/AbdulkaderKharrat/posture-detection-system/main/screenshots/good\_posture.png)
+!\[Good Posture](screenshots/good\_posture.png)
 
 
 
