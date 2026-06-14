@@ -1,4 +1,4 @@
-\# AI-Based Posture Detection System
+# AI-Based Posture Detection System
 
 
 
@@ -10,59 +10,59 @@ The system analyzes human posture in real time through a webcam, calculates body
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
-\- Real-time posture monitoring
+- Real-time posture monitoring
 
-\- Automatic user calibration
+- Automatic user calibration
 
-\- Shoulder angle analysis
+- Shoulder angle analysis
 
-\- Neck angle analysis
+- Neck angle analysis
 
-\- Hip angle analysis
+- Hip angle analysis
 
-\- Poor posture detection
+- Poor posture detection
 
-\- Visual feedback and alerts
+- Visual feedback and alerts
 
-\- Statistics tracking
+- Statistics tracking
 
-\- Logging system
-
-
-
-\---
+- Logging system
 
 
 
-\## Technologies Used
+---
 
 
 
-\- Python
-
-\- OpenCV
-
-\- MediaPipe
-
-\- NumPy
-
-\- Pandas
+## Technologies Used
 
 
 
-\---
+- Python
+
+- OpenCV
+
+- MediaPipe
+
+- NumPy
+
+- Pandas
 
 
 
-\## How It Works
+---
+
+
+
+## How It Works
 
 
 
@@ -80,31 +80,31 @@ The system analyzes human posture in real time through a webcam, calculates body
 
 
 
-\---
+---
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
-\- GUI Dashboard
+- GUI Dashboard
 
-\- Machine Learning-based posture classification
+- Machine Learning-based posture classification
 
-\- Automated posture reports
+- Automated posture reports
 
-\- Cloud data storage
+- Cloud data storage
 
-\- Multi-user support
-
-
-
-\---
+- Multi-user support
 
 
 
-\## Author
+---
+
+
+
+## Author
 
 
 
@@ -116,35 +116,35 @@ AI \& Computer Vision Developer
 
 
 
-\---
+---
 
 
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
-\### Good Posture Detection
+### Good Posture Detection
 
 
 
-!\[Good Posture](screenshots/good\_posture.png)
+![Good Posture](screenshots/good_posture.png)
 
 
 
-\### Bad Posture Detection
+### Bad Posture Detection
 
 
 
-!\[Bad Posture](screenshots/bad\_posture.png)
+![Bad Posture](screenshots/bad_posture.png)
 
 
 
-\### JSON Log Example
+### JSON Log Example
 
 
 
-!\[Json Log](screenshots/json\_log.png)
+![Json Log](screenshots/json_log.png)
 
