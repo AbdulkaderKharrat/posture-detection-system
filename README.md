@@ -132,7 +132,7 @@ AI \& Computer Vision Developer
 
 
 
-!\[Good Posture](screenshots/Good%20posture.png)
+!\[Good Posture](screenshots/good\_posture.png)
 
 
 
@@ -140,7 +140,7 @@ AI \& Computer Vision Developer
 
 
 
-!\[Bad Posture](screenshots/Bad%20posture.png)
+!\[Bad Posture](screenshots/bad\_posture.png)
 
 
 
@@ -148,5 +148,5 @@ AI \& Computer Vision Developer
 
 
 
-!\[Json Log](screenshots/Json%20log.png)
+!\[Json Log](screenshots/json\_log.png)
 
